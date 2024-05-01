@@ -1,0 +1,37 @@
+{
+  "Version": "0",
+  "ReleaseNotes": "⚠️Nueva Actualización⚠️",
+  "Sms": "https://",
+  "UrlUpdate": "https://",
+  "UrlContato": "https://wa.me/",
+  "Udp": [
+      {
+          "Porta": "7300"
+      }
+  ],
+  "Servers": [
+      {
+          "Name": " ",
+          "TYPE": "",
+          "FLAG": "",
+          "ServerIP": "",
+          "CheckUser": "",
+          "ServerPort": "",
+          "SSLPort": "",
+          "USER": "",
+          "PASS": ""
+      }
+  ],
+  "Networks": [
+      {
+          "Name": " ",
+          "FLAG": "",
+          "Payload": "",
+          "SNI": "",
+          "TlsIP": "",
+          "ProxyIP": "",
+          "ProxyPort": "",
+          "Info": ""
+      }
+  ]
+}
