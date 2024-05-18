@@ -1,5 +1,5 @@
 {
-  "Version": "2",
+  "Version": "3",
   "ReleaseNotes": "⚠️Nueva Actualización⚠️",
   "Sms": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/main/SMS",
   "UrlUpdate": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/main/Update",
@@ -22,8 +22,8 @@
         "Name": "⚡ EE.UU ⚡",
         "TYPE": "Premium",
         "FLAG": "us.png",
-        "ServerIP": "web.speedvpn.host",
-        "CheckUser": "http://45.61.185.112:500/checkUser",
+        "ServerIP": "webcont.speedvpn.host",
+        "CheckUser": "http://102.129.137.62:500/checkUser",
         "ServerPort": "80",
         "SSLPort": "443",
         "USER": "",
