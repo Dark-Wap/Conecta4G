@@ -1,5 +1,5 @@
 {
-  "Version": "3",
+  "Version": "4",
   "ReleaseNotes": "⚠️Nueva Actualización⚠️",
   "Sms": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/main/SMS",
   "UrlUpdate": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/main/Update",
@@ -22,7 +22,7 @@
         "Name": "⚡ EE.UU ⚡",
         "TYPE": "Premium",
         "FLAG": "us.png",
-        "ServerIP": "webcont.speedvpn.host",
+        "ServerIP": "vps.webcont.services",
         "CheckUser": "http://102.129.137.62:500/checkUser",
         "ServerPort": "80",
         "SSLPort": "443",
@@ -34,7 +34,7 @@
      {
         "Name": "🌎 CENTROAMERICA 🌎",
         "FLAG": "Claro",
-        "Payload": "[split][crlf]GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Keep-Alive, Upgrade[crlf]Upgrade: WebSocket[crlf]Sec-WebSocket-Extensions: superspeed[crlf]Proxy-Connection: Keep-Alive[crlf]User-Agent: [ua][crlf][crlf]",
+        "Payload": "[split][crlf]GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Keep-Alive, Upgrade[crlf]Upgrade: WebSocket[crlf]Sec-WebSocket-Extensions: superspeed[crlf]Proxy-Connection: Keep-Alive[crlf]User-Agent: Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)[crlf][crlf]",
         "SNI": "[app_host]",
         "TlsIP": "arts.giphy.com",
         "ProxyIP": "arts.giphy.com",
