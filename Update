@@ -1,5 +1,5 @@
 {
-  "Version": "5",
+  "Version": "6",
   "ReleaseNotes": "⚠️Nueva Actualización⚠️",
   "Sms": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/main/SMS",
   "UrlUpdate": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/main/Update",
@@ -22,11 +22,11 @@
         "Name": "⚡ EE.UU ⚡",
         "TYPE": "Premium",
         "FLAG": "us.png",
-        "ServerIP": "vps.webcont.services",
+        "ServerIP": "us2.wscdn.site",
         "CheckUser": "http://102.129.137.62:500/checkUser",
-        "ServerPort": "80",
-        "SSLPort": "443",
-        "USER": "",
+        "ServerPort": "8080",
+        "SSLPort": "8443",
+        "USER": "sshmax-chongo",
         "PASS": ""
      }
   ],
@@ -38,7 +38,7 @@
         "SNI": "[app_host]",
         "TlsIP": "investors.spotify.com",
         "ProxyIP": "",
-        "ProxyPort": "80",
+        "ProxyPort": "",
         "Info": "Tlsws"
      }
   ]
