@@ -1,5 +1,5 @@
 {
-  "Version": "14",
+  "Version": "15",
   "ReleaseNotes": "⚠️Nueva Actualización⚠️",
   "Sms": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/main/SMS",
   "UrlUpdate": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/main/Update",
@@ -37,8 +37,8 @@
         "CheckUser": "",
         "ServerPort": "8080",
         "SSLPort": "8443",
-        "USER": "sshocean-respaldo",
-        "PASS": "123ro90"
+        "USER": "",
+        "PASS": "123respaldo90"
      }
   ],
   "Networks": [
