@@ -1,5 +1,5 @@
 {
-  "Version": "16",
+  "Version": "17",
   "ReleaseNotes": "⚠️Nueva Actualización⚠️",
   "Sms": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/main/SMS",
   "UrlUpdate": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/main/Update",
@@ -13,10 +13,10 @@
   "CheckUser": "true",
   "Udp": [
      {
-        "Porta": "7300"
+        "Porta": "7400"
      }
   ],
-  "UdpPort": "7300",
+  "UdpPort": "7400",
   "Servers": [
      {
         "Name": "⚡ SERVER - EE.UU ⚡",
@@ -33,12 +33,12 @@
         "Name": "🚧 SERVER - RESPALDO 🚧",
         "TYPE": "Free",
         "FLAG": "us.png",
-        "ServerIP": "us2.wscom.pro",
+        "ServerIP": "mxws1.bnetservice.com.mx",
         "CheckUser": "http://172.235.128.50:500/checkUser",
-        "ServerPort": "8080",
-        "SSLPort": "8443",
+        "ServerPort": "8880",
+        "SSLPort": "443",
         "USER": "",
-        "PASS": "123respaldo90"
+        "PASS": ""
      }
   ],
   "Networks": [
