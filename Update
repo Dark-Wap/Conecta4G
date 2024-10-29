@@ -1,5 +1,5 @@
 {
-  "Version": "17",
+  "Version": "18",
   "ReleaseNotes": "⚠️Nueva Actualización⚠️",
   "Sms": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/main/SMS",
   "UrlUpdate": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/main/Update",
@@ -19,7 +19,7 @@
   "UdpPort": "7400",
   "Servers": [
      {
-        "Name": "⚡ SERVER - EE.UU ⚡",
+        "Name": "⚡ SERVER - USA ⚡",
         "TYPE": "Premium",
         "FLAG": "us.png",
         "ServerIP": "vps.webcont.services",
@@ -30,10 +30,32 @@
         "PASS": ""
      },
      {
-        "Name": "🚧 SERVER - RESPALDO 🚧",
+        "Name": "🚧 RESPALDO - USA 🚧",
+        "TYPE": "Free",
+        "FLAG": "us.png",
+        "ServerIP": "dtxws1.bnetservice.com.mx",
+        "CheckUser": "http://172.235.128.50:500/checkUser",
+        "ServerPort": "8880",
+        "SSLPort": "443",
+        "USER": "",
+        "PASS": ""
+     },
+     {
+        "Name": "🚧 RESPALDO - MX 🚧",
         "TYPE": "Free",
         "FLAG": "us.png",
         "ServerIP": "mxws1.bnetservice.com.mx",
+        "CheckUser": "http://172.235.128.50:500/checkUser",
+        "ServerPort": "8880",
+        "SSLPort": "443",
+        "USER": "",
+        "PASS": ""
+     },
+     {
+        "Name": "🚧 RESPALDO - BR 🚧",
+        "TYPE": "Free",
+        "FLAG": "us.png",
+        "ServerIP": "brws1.bnetservice.com.mx",
         "CheckUser": "http://172.235.128.50:500/checkUser",
         "ServerPort": "8880",
         "SSLPort": "443",
