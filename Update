@@ -1,5 +1,5 @@
 {
-  "Version": "22",
+  "Version": "23",
   "ReleaseNotes": "⚠️Nueva Actualización⚠️",
   "Sms": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/main/SMS",
   "UrlUpdate": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/main/Update",
@@ -13,10 +13,10 @@
   "CheckUser": "true",
   "Udp": [
      {
-        "Porta": "7400"
+        "Porta": "7300"
      }
   ],
-  "UdpPort": "7400",
+  "UdpPort": "7300",
   "Servers": [
      {
         "Name": "⚡ SERVER - USA ⚡",
@@ -72,7 +72,7 @@
         "TlsIP": "investors.spotify.com",
         "ProxyIP": "",
         "ProxyPort": "",
-        "Info": "Tlsws"
+        "Info": "Ssl"
      }
   ]
 }
