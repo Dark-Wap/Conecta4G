@@ -1,5 +1,5 @@
 {
-  "Version": "19",
+  "Version": "20",
   "ReleaseNotes": "⚠️Nueva Actualización⚠️",
   "Sms": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/main/SMS",
   "UrlUpdate": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/main/Update",
@@ -33,9 +33,9 @@
         "Name": "🚧 RESPALDO - USA 🚧",
         "TYPE": "Free",
         "FLAG": "us.png",
-        "ServerIP": "dtxws1.bnetservice.com.mx",
+        "ServerIP": "us.servergo.pw",
         "CheckUser": "",
-        "ServerPort": "8880",
+        "ServerPort": "80",
         "SSLPort": "443",
         "USER": "",
         "PASS": ""
@@ -46,7 +46,7 @@
         "FLAG": "mx.png",
         "ServerIP": "mxws1.bnetservice.com.mx",
         "CheckUser": "",
-        "ServerPort": "8880",
+        "ServerPort": "80",
         "SSLPort": "443",
         "USER": "",
         "PASS": ""
@@ -57,7 +57,7 @@
         "FLAG": "br.png",
         "ServerIP": "brws1.bnetservice.com.mx",
         "CheckUser": "",
-        "ServerPort": "8880",
+        "ServerPort": "80",
         "SSLPort": "443",
         "USER": "",
         "PASS": ""
