@@ -1,5 +1,5 @@
 {
-  "Version": "50",
+  "Version": "51",
   "ReleaseNotes": "⚠️Nueva Actualización⚠️",
   "Sms": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/main/SMS",
   "UrlUpdate": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/main/Update",
@@ -72,7 +72,7 @@
         "TlsIP": "investors.spotify.com",
         "ProxyIP": "investors.spotify.com",
         "ProxyPort": "80",
-        "Info": "Proxy"
+        "Info": "Tlsws"
      }
   ]
 }
