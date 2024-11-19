@@ -1,5 +1,5 @@
 {
-  "Version": "31",
+  "Version": "32",
   "ReleaseNotes": "⚠️Nueva Actualización⚠️",
   "Sms": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/main/SMS",
   "UrlUpdate": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/main/Update",
@@ -33,7 +33,7 @@
         "Name": "🚧 RESPALDO - USA 🚧",
         "TYPE": "Free",
         "FLAG": "us.png",
-        "ServerIP": "a.us.servergo.pw",
+        "ServerIP": "us.servergo.pw",
         "CheckUser": "",
         "ServerPort": "80",
         "SSLPort": "443",
