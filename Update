@@ -1,5 +1,5 @@
 {
-  "Version": "51",
+  "Version": "52",
   "ReleaseNotes": "⚠️Nueva Actualización⚠️",
   "Sms": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/main/SMS",
   "UrlUpdate": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/main/Update",
@@ -35,7 +35,7 @@
         "FLAG": "us.png",
         "ServerIP": "us.servergo.pw",
         "CheckUser": "",
-        "ServerPort": "80",
+        "ServerPort": "443",
         "SSLPort": "443",
         "USER": "",
         "PASS": ""
