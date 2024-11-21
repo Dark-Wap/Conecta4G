@@ -1,5 +1,5 @@
 {
-  "Version": "54",
+  "Version": "55",
   "ReleaseNotes": "⚠️Nueva Actualización⚠️",
   "Sms": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/main/SMS",
   "UrlUpdate": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/main/Update",
@@ -30,10 +30,21 @@
         "PASS": ""
      },
      {
-        "Name": "🚧 RESPALDO - USA 🚧",
+        "Name": "🚧 RESPALDO - USA 1 🚧",
         "TYPE": "Free",
         "FLAG": "us.png",
-        "ServerIP": "dtxws1.bnetservice.com.mx",
+        "ServerIP": "us1.wstunnel.site",
+        "CheckUser": "",
+        "ServerPort": "80",
+        "SSLPort": "443",
+        "USER": "",
+        "PASS": ""
+     },
+     {
+        "Name": "🚧 RESPALDO - USA 2 🚧",
+        "TYPE": "Free",
+        "FLAG": "mx.png",
+        "ServerIP": "us2.wstunnel.site",
         "CheckUser": "",
         "ServerPort": "80",
         "SSLPort": "443",
@@ -43,19 +54,8 @@
      {
         "Name": "🚧 RESPALDO - MX 🚧",
         "TYPE": "Free",
-        "FLAG": "mx.png",
-        "ServerIP": "mxws1.bnetservice.com.mx",
-        "CheckUser": "",
-        "ServerPort": "80",
-        "SSLPort": "443",
-        "USER": "",
-        "PASS": ""
-     },
-     {
-        "Name": "🚧 RESPALDO - BR 🚧",
-        "TYPE": "Free",
         "FLAG": "br.png",
-        "ServerIP": "brws1.bnetservice.com.mx",
+        "ServerIP": "mxws1.bnetservice.com.mx",
         "CheckUser": "",
         "ServerPort": "80",
         "SSLPort": "443",
