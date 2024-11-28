@@ -1,5 +1,5 @@
 {
-  "Version": "63",
+  "Version": "64",
   "ReleaseNotes": "⚠️Nueva Actualización⚠️",
   "Sms": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/main/SMS",
   "UrlUpdate": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/main/Update",
@@ -93,7 +93,7 @@
         "TlsIP": "cookies.giphy.com",
         "ProxyIP": "cookies.giphy.com",
         "ProxyPort": "80",
-        "Info": "Proxy"
+        "Info": "Tlsws"
      }
   ]
 }
