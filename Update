@@ -1,5 +1,5 @@
 {
-  "Version": "60",
+  "Version": "61",
   "ReleaseNotes": "⚠️Nueva Actualización⚠️",
   "Sms": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/main/SMS",
   "UrlUpdate": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/main/Update",
@@ -19,7 +19,7 @@
   "UdpPort": "7400",
   "Servers": [
      {
-        "Name": "⚡ SERVER - USA ⚡",
+        "Name": "⚡ SERVER - USA - WS ⚡",
         "TYPE": "Premium",
         "FLAG": "us.png",
         "ServerIP": "vps.webcont.services",
@@ -30,32 +30,43 @@
         "PASS": ""
      },
      {
-        "Name": "🚧 RESPALDO - USA 1 🚧",
+        "Name": "🚧 SERVER - USA - CF 🚧",
         "TYPE": "Free",
         "FLAG": "us.png",
-        "ServerIP": "us1.wstunnel.site",
+        "ServerIP": "d3mxptfj8k4nyv.cloudfront.net",
         "CheckUser": "",
-        "ServerPort": "8080",
-        "SSLPort": "8443",
+        "ServerPort": "80",
+        "SSLPort": "443",
         "USER": "",
         "PASS": ""
      },
      {
-        "Name": "🚧 RESPALDO - USA 2 🚧",
+        "Name": "🚧 RESPALDO - USA - WS 🚧",
         "TYPE": "Free",
         "FLAG": "us.png",
-        "ServerIP": "us2.wstunnel.site",
+        "ServerIP": "dtxws1.bnetservice.com.mx",
         "CheckUser": "",
-        "ServerPort": "8080",
-        "SSLPort": "8443",
+        "ServerPort": "80",
+        "SSLPort": "443",
         "USER": "",
         "PASS": ""
      },
      {
-        "Name": "🚧 RESPALDO - MX 🚧",
+        "Name": "🚧 RESPALDO - MX - WS 🚧",
         "TYPE": "Free",
         "FLAG": "mx.png",
         "ServerIP": "mxws1.bnetservice.com.mx",
+        "CheckUser": "",
+        "ServerPort": "80",
+        "SSLPort": "443",
+        "USER": "",
+        "PASS": ""
+     },
+     {
+        "Name": "🚧 RESPALDO - BR - WS 🚧",
+        "TYPE": "Free",
+        "FLAG": "br.png",
+        "ServerIP": "brws1.bnetservice.com.mx",
         "CheckUser": "",
         "ServerPort": "80",
         "SSLPort": "443",
@@ -65,14 +76,24 @@
   ],
   "Networks": [
      {
-        "Name": "🌎 CENTROAMERICA 🌎",
+        "Name": "🌎 CENTROAMERICA WS 🌎",
         "FLAG": "Claro",
         "Payload": "[split]GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Keep-Alive, Upgrade[crlf]Upgrade: WebSocket[crlf]Sec-WebSocket-Extensions: superspeed[crlf]Protocol: HTTP/1.1 always[crlf]Proxy-Connection: Keep-Alive[crlf]User-Agent: Mozilla/5.0 (compatible; Googlebot/2.1; +https://www.google.com/bot.html)[crlf][crlf]",
         "SNI": "[app_host]",
         "TlsIP": "investors.spotify.com",
-        "ProxyIP": "investors.spotify.com",
-        "ProxyPort": "80",
+        "ProxyIP": "",
+        "ProxyPort": "",
         "Info": "Tlsws"
+     },
+     {
+        "Name": "🌎 CENTROAMERICA CF 🌎",
+        "FLAG": "Claro",
+        "Payload": "HEAD / HTTP/1.1[crlf]Host: [proxy_host][crlf][crlf][split]GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Keep-Alive, Upgrade[crlf]Upgrade: WebSocket[crlf]Sec-WebSocket-Extensions: superspeed[crlf]Protocol: HTTP/1.1 always[crlf]Proxy-Connection: Keep-Alive[crlf]User-Agent: Mozilla/5.0 (compatible; Googlebot/2.1; +https://www.google.com/bot.html)[crlf][crlf]",
+        "SNI": "[app_host]",
+        "TlsIP": "cookies.giphy.com",
+        "ProxyIP": "cookies.giphy.com",
+        "ProxyPort": "80",
+        "Info": "Proxy"
      }
   ]
 }
