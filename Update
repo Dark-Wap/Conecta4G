@@ -1,5 +1,5 @@
 {
-  "Version": "65",
+  "Version": "66",
   "ReleaseNotes": "⚠️Nueva Actualización⚠️",
   "Sms": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/main/SMS",
   "UrlUpdate": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/main/Update",
@@ -33,7 +33,7 @@
         "Name": "🚧 SERVER - USA - CF 🚧",
         "TYPE": "Premium",
         "FLAG": "us.png",
-        "ServerIP": "d3mxptfj8k4nyv.cloudfront.net",
+        "ServerIP": "dg1f726nw4266.cloudfront.net",
         "CheckUser": "",
         "ServerPort": "80",
         "SSLPort": "443",
