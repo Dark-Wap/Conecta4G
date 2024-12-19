@@ -1,5 +1,5 @@
 {
-  "Version": "67",
+  "Version": "68",
   "ReleaseNotes": "⚠️Nueva Actualización⚠️",
   "Sms": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/main/SMS",
   "UrlUpdate": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/main/Update",
@@ -41,10 +41,10 @@
         "PASS": ""
      },
      {
-        "Name": "🚧 RESPALDO - USA - WS 🚧",
+        "Name": "🚧 RESPALDO - USA - CF 🚧",
         "TYPE": "Free",
         "FLAG": "us.png",
-        "ServerIP": "dtxws1.bnetservice.com.mx",
+        "ServerIP": "d20ajb3coniakf.cloudfront.net",
         "CheckUser": "",
         "ServerPort": "80",
         "SSLPort": "443",
@@ -52,10 +52,10 @@
         "PASS": ""
      },
      {
-        "Name": "🚧 RESPALDO - MX - WS 🚧",
+        "Name": "🚧 RESPALDO - MX - CF 🚧",
         "TYPE": "Free",
         "FLAG": "mx.png",
-        "ServerIP": "mxws1.bnetservice.com.mx",
+        "ServerIP": "d2bb0qri15b9dt.cloudfront.net",
         "CheckUser": "",
         "ServerPort": "80",
         "SSLPort": "443",
@@ -63,10 +63,10 @@
         "PASS": ""
      },
      {
-        "Name": "🚧 RESPALDO - BR - WS 🚧",
+        "Name": "🚧 RESPALDO - BR - CF 🚧",
         "TYPE": "Free",
         "FLAG": "br.png",
-        "ServerIP": "brws1.bnetservice.com.mx",
+        "ServerIP": "d2q21hb15xyjii.cloudfront.net",
         "CheckUser": "",
         "ServerPort": "80",
         "SSLPort": "443",
