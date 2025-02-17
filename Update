@@ -1,5 +1,5 @@
 {
-  "Version": "75",
+  "Version": "76",
   "ReleaseNotes": "⚠️Nueva Actualización⚠️",
   "Sms": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/main/SMS",
   "UrlUpdate": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/main/Update",
@@ -41,7 +41,7 @@
         "PASS": ""
      },
      {
-        "Name": "🚨 Respaldo 1GB - CF 🚨",
+        "Name": "🚨 Respaldo 1GB Slow - CF 🚨",
         "TYPE": "Premium",
         "FLAG": "us.png",
         "ServerIP": "d1rijh50llnkp9.cloudfront.net",
