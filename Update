@@ -1,5 +1,5 @@
 {
-  "Version": "76",
+  "Version": "77",
   "ReleaseNotes": "⚠️Nueva Actualización⚠️",
   "Sms": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/main/SMS",
   "UrlUpdate": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/main/Update",
@@ -74,7 +74,7 @@
         "Info": "Tlsws"
      },
      {
-        "Name": "🌎 Respaldo 1GB - CF 🌎",
+        "Name": "🌎 Respaldo 1GB Slow - CF 🌎",
         "FLAG": "Claro",
         "Payload": "GET /ws/vpn HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf]User-Agent: Mozilla/5.0 (compatible; Googlebot/2.1; +https://www.google.com/bot.html)[crlf][crlf]",
         "SNI": "[app_host]",
