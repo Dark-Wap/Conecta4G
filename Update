@@ -22,7 +22,7 @@
         "Name": "⚡ SERVER - USA - WS ⚡",
         "TYPE": "Premium",
         "FLAG": "us.png",
-        "ServerIP": "proxy.vpn-netservices.com",
+        "ServerIP": "vpn.webcont.services",
         "CheckUser": "http://102.129.137.207:115/checkUser",
         "ServerPort": "80",
         "SSLPort": "443",
