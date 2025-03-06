@@ -1,5 +1,5 @@
 {
-  "Version": "78",
+  "Version": "79",
   "ReleaseNotes": "⚠️Nueva Actualización⚠️",
   "Sms": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/main/SMS",
   "UrlUpdate": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/main/Update",
@@ -22,7 +22,7 @@
         "Name": "⚡ SERVER - USA - WS ⚡",
         "TYPE": "Premium",
         "FLAG": "us.png",
-        "ServerIP": "vpn.webcont.services",
+        "ServerIP": "vpn.unlimitednetservices.com",
         "CheckUser": "http://102.129.137.207:115/checkUser",
         "ServerPort": "80",
         "SSLPort": "443",
@@ -30,21 +30,10 @@
         "PASS": ""
      },
      {
-        "Name": "🚧 SERVER - USA - CF 🚧",
+        "Name": "🚧🚨 SERVER - USA - CF 🚨🚧",
         "TYPE": "Premium",
         "FLAG": "us.png",
-        "ServerIP": "do9vbexvqq2jl.cloudfront.net",
-        "CheckUser": "http://102.129.137.207:115/checkUser",
-        "ServerPort": "80",
-        "SSLPort": "443",
-        "USER": "",
-        "PASS": ""
-     },
-     {
-        "Name": "🚨 Respaldo 1GB Slow - CF 🚨",
-        "TYPE": "Premium",
-        "FLAG": "us.png",
-        "ServerIP": "d1rijh50llnkp9.cloudfront.net",
+        "ServerIP": "d37qykvpebyspu.cloudfront.net",
         "CheckUser": "http://102.129.137.207:115/checkUser",
         "ServerPort": "80",
         "SSLPort": "443",
