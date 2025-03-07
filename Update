@@ -1,5 +1,5 @@
 {
-  "Version": "79",
+  "Version": "80",
   "ReleaseNotes": "⚠️Nueva Actualización⚠️",
   "Sms": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/main/SMS",
   "UrlUpdate": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/main/Update",
@@ -23,18 +23,18 @@
         "TYPE": "Premium",
         "FLAG": "us.png",
         "ServerIP": "vpn.unlimitednetservices.com",
-        "CheckUser": "http://102.129.137.207:115/checkUser",
+        "CheckUser": "http://102.129.137.235:115/checkUser",
         "ServerPort": "80",
         "SSLPort": "443",
         "USER": "",
         "PASS": ""
      },
      {
-        "Name": "🚧🚨 SERVER - USA - CF 🚨🚧",
+        "Name": "🚧 SERVER - USA - CF 🚧",
         "TYPE": "Premium",
         "FLAG": "us.png",
         "ServerIP": "d37qykvpebyspu.cloudfront.net",
-        "CheckUser": "http://102.129.137.207:115/checkUser",
+        "CheckUser": "http://102.129.137.235:115/checkUser",
         "ServerPort": "80",
         "SSLPort": "443",
         "USER": "",
@@ -63,7 +63,7 @@
         "Info": "Tlsws"
      },
      {
-        "Name": "🌎 Respaldo 1GB Slow - CF 🌎",
+        "Name": "🌎 RESPALDO SLOW - CF 🌎",
         "FLAG": "Claro",
         "Payload": "GET /ws/vpn HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf]User-Agent: Mozilla/5.0 (compatible; Googlebot/2.1; +https://www.google.com/bot.html)[crlf][crlf]",
         "SNI": "[app_host]",
