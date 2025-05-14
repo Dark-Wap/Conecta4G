@@ -1,5 +1,5 @@
 {
-  "Version": "81",
+  "Version": "82",
   "ReleaseNotes": "⚠️Nueva Actualización⚠️",
   "Sms": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/main/SMS",
   "UrlUpdate": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/main/Update",
@@ -22,7 +22,7 @@
         "Name": "⚡ SERVER - USA - WS ⚡",
         "TYPE": "Premium",
         "FLAG": "us.png",
-        "ServerIP": "vpn.unlimitednetservices.com",
+        "ServerIP": "mxws1.bnetservice.com.mx",
         "CheckUser": "http://102.129.137.235:115/checkUser",
         "ServerPort": "80",
         "SSLPort": "443",
