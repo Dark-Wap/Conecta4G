@@ -1,5 +1,5 @@
 {
-  "Version": "82",
+  "Version": "83",
   "ReleaseNotes": "⚠️Nueva Actualización⚠️",
   "Sms": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/main/SMS",
   "UrlUpdate": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/main/Update",
@@ -22,7 +22,7 @@
         "Name": "⚡ SERVER - USA - WS ⚡",
         "TYPE": "Premium",
         "FLAG": "us.png",
-        "ServerIP": "mxws1.bnetservice.com.mx",
+        "ServerIP": "vpn.unlimitednetservices.com",
         "CheckUser": "http://102.129.137.235:115/checkUser",
         "ServerPort": "80",
         "SSLPort": "443",
@@ -47,7 +47,7 @@
         "FLAG": "Claro",
         "Payload": "GET /ws/vpn HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf]User-Agent: Mozilla/5.0 (compatible; Googlebot/2.1; +https://www.google.com/bot.html)[crlf][crlf]",
         "SNI": "[app_host]",
-        "TlsIP": "support.deezer.com",
+        "TlsIP": "investors.spotify.com",
         "ProxyIP": "",
         "ProxyPort": "443",
         "Info": "Tlsws"
