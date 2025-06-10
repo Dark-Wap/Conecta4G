@@ -1,5 +1,5 @@
 {
-  "Version": "83",
+  "Version": "84",
   "ReleaseNotes": "⚠️Nueva Actualización⚠️",
   "Sms": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/main/SMS",
   "UrlUpdate": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/main/Update",
@@ -30,10 +30,10 @@
         "PASS": ""
      },
      {
-        "Name": "🚧 SERVER - USA - CF 🚧",
+        "Name": "🚧 SERVER - MX - WS 🚧",
         "TYPE": "Premium",
         "FLAG": "us.png",
-        "ServerIP": "d37qykvpebyspu.cloudfront.net",
+        "ServerIP": "mxws1.bnetservice.com.mx",
         "CheckUser": "http://102.129.137.235:115/checkUser",
         "ServerPort": "80",
         "SSLPort": "443",
@@ -53,11 +53,11 @@
         "Info": "Tlsws"
      },
      {
-        "Name": "🌎 CENTROAMERICA - CF 🌎",
+        "Name": "🌎 CENTROAMERICA - WS 🌎",
         "FLAG": "Claro",
         "Payload": "GET /ws/vpn HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf]User-Agent: Mozilla/5.0 (compatible; Googlebot/2.1; +https://www.google.com/bot.html)[crlf][crlf]",
         "SNI": "[app_host]",
-        "TlsIP": "outlook.giphy.com",
+        "TlsIP": "creatorsupport.deezer.com",
         "ProxyIP": "",
         "ProxyPort": "443",
         "Info": "Tlsws"
