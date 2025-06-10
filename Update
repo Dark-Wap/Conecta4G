@@ -1,8 +1,8 @@
 {
-  "Version": "84",
+  "Version": "85",
   "ReleaseNotes": "⚠️Nueva Actualización⚠️",
-  "Sms": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/main/SMS",
-  "UrlUpdate": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/main/Update",
+  "Sms": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/refs/heads/main/SMS",
+  "UrlUpdate": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/refs/heads/main/Update",
   "logoonline": "https://i.ibb.co/FXgNTbh/banner.png",
   "fundoonline": "https://i.ibb.co/fCsQp03/fundo.gif",
   "fundoDoLogOnline": "https://",
@@ -37,8 +37,8 @@
         "CheckUser": "http://102.129.137.235:115/checkUser",
         "ServerPort": "80",
         "SSLPort": "443",
-        "USER": "",
-        "PASS": ""
+        "USER": "bnet-MUJUD",
+        "PASS": "38511"
      }
   ],
   "Networks": [
