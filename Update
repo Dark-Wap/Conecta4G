@@ -1,5 +1,5 @@
 {
-  "Version": "86",
+  "Version": "87",
   "ReleaseNotes": "⚠️Nueva Actualización⚠️",
   "Sms": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/refs/heads/main/SMS",
   "UrlUpdate": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/refs/heads/main/Update",
@@ -37,8 +37,8 @@
         "CheckUser": "http://102.129.137.235:115/checkUser",
         "ServerPort": "80",
         "SSLPort": "443",
-        "USER": "bnet-BZKON",
-        "PASS": "55334"
+        "USER": "bnet-AALMV",
+        "PASS": "41892"
      },
      {
         "Name": "🚧 SERVER - US - WS 🚧",
@@ -48,8 +48,8 @@
         "CheckUser": "http://102.129.137.235:115/checkUser",
         "ServerPort": "80",
         "SSLPort": "443",
-        "USER": "bnet-FDSFG",
-        "PASS": "25551"
+        "USER": "bnet-WAIKC",
+        "PASS": "84581"
      }
   ],
   "Networks": [
@@ -68,7 +68,7 @@
         "FLAG": "Claro",
         "Payload": "GET /ws/vpn HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf]User-Agent: Mozilla/5.0 (compatible; Googlebot/2.1; +https://www.google.com/bot.html)[crlf][crlf]",
         "SNI": "[app_host]",
-        "TlsIP": "support.deezer.com",
+        "TlsIP": "creatorsupport.deezer.com",
         "ProxyIP": "",
         "ProxyPort": "443",
         "Info": "Tlsws"
