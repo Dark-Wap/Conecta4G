@@ -1,5 +1,5 @@
 {
-  "Version": "88",
+  "Version": "89",
   "ReleaseNotes": "⚠️Nueva Actualización⚠️",
   "Sms": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/refs/heads/main/SMS",
   "UrlUpdate": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/refs/heads/main/Update",
@@ -32,13 +32,13 @@
      {
         "Name": "🚧 SERVER - MX - WS 🚧",
         "TYPE": "Premium",
-        "FLAG": "us.png",
+        "FLAG": "mx.png",
         "ServerIP": "mxws1.bnetservice.com.mx",
         "CheckUser": "http://102.129.137.235:115/checkUser",
         "ServerPort": "80",
         "SSLPort": "443",
-        "USER": "bnet-TQDMW",
-        "PASS": "83071"
+        "USER": "bnet-LICHY",
+        "PASS": "77145"
      },
      {
         "Name": "🚧 SERVER - US - WS 🚧",
@@ -48,8 +48,8 @@
         "CheckUser": "http://102.129.137.235:115/checkUser",
         "ServerPort": "80",
         "SSLPort": "443",
-        "USER": "bnet-WCTUO",
-        "PASS": "36925"
+        "USER": "bnet-GZJMP",
+        "PASS": "50680"
      }
   ],
   "Networks": [
