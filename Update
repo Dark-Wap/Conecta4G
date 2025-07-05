@@ -1,5 +1,5 @@
 {
-  "Version": "92",
+  "Version": "93",
   "ReleaseNotes": "⚠️Nueva Actualización⚠️",
   "Sms": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/refs/heads/main/SMS",
   "UrlUpdate": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/refs/heads/main/Update",
@@ -30,6 +30,17 @@
         "PASS": "QwrtyCo94"
      },
      {
+        "Name": "⚡ SERVER - BR - WS ⚡",
+        "TYPE": "Premium",
+        "FLAG": "br.png",
+        "ServerIP": "brws1.bnetservice.com.mx",
+        "CheckUser": "http://102.129.137.235:115/checkUser",
+        "ServerPort": "80",
+        "SSLPort": "443",
+        "USER": "bnet-DQOXA",
+        "PASS": "35802"
+     },
+     {
         "Name": "🚧 SERVER - MX - WS 🚧",
         "TYPE": "Premium",
         "FLAG": "mx.png",
@@ -37,8 +48,8 @@
         "CheckUser": "http://102.129.137.235:115/checkUser",
         "ServerPort": "80",
         "SSLPort": "443",
-        "USER": "bnet-KSZJT",
-        "PASS": "45525"
+        "USER": "bnet-ZTHSF",
+        "PASS": "11402"
      },
      {
         "Name": "🚧 SERVER - US - WS 🚧",
@@ -48,8 +59,8 @@
         "CheckUser": "http://102.129.137.235:115/checkUser",
         "ServerPort": "80",
         "SSLPort": "443",
-        "USER": "bnet-CSTZK",
-        "PASS": "85180"
+        "USER": "bnet-FTPQM",
+        "PASS": "88042"
      }
   ],
   "Networks": [
