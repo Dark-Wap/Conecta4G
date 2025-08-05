@@ -1,5 +1,5 @@
 {
-  "Version": "100",
+  "Version": "101",
   "ReleaseNotes": "⚠️Nueva Actualización⚠️",
   "Sms": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/refs/heads/main/SMS",
   "UrlUpdate": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/refs/heads/main/Update",
@@ -37,8 +37,8 @@
         "CheckUser": "http://102.129.137.235:115/checkUser",
         "ServerPort": "80",
         "SSLPort": "443",
-        "USER": "bnet-HJPAJ",
-        "PASS": "35671"
+        "USER": "",
+        "PASS": ""
      },
      {
         "Name": "🚧 SERVER - MX - WS 🚧",
@@ -48,8 +48,8 @@
         "CheckUser": "http://102.129.137.235:115/checkUser",
         "ServerPort": "80",
         "SSLPort": "443",
-        "USER": "bnet-RRKEU",
-        "PASS": "16030"
+        "USER": "",
+        "PASS": ""
      },
      {
         "Name": "🚧 SERVER - US - WS 🚧",
@@ -59,8 +59,8 @@
         "CheckUser": "http://102.129.137.235:115/checkUser",
         "ServerPort": "80",
         "SSLPort": "443",
-        "USER": "bnet-AYELW",
-        "PASS": "31790"
+        "USER": "",
+        "PASS": ""
      }
   ],
   "Networks": [
@@ -79,7 +79,7 @@
         "FLAG": "Claro",
         "Payload": "GET /ws/vpn HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf]User-Agent: Mozilla/5.0 (compatible; Googlebot/2.1; +https://www.google.com/bot.html)[crlf][crlf]",
         "SNI": "[app_host]",
-        "TlsIP": "support.deezer.com",
+        "TlsIP": "creatorsupport.deezer.com",
         "ProxyIP": "",
         "ProxyPort": "443",
         "Info": "Tlsws"
