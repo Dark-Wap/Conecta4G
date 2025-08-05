@@ -48,8 +48,8 @@
         "CheckUser": "http://102.129.137.235:115/checkUser",
         "ServerPort": "80",
         "SSLPort": "443",
-        "USER": "",
-        "PASS": ""
+        "USER": "bnet-FPQNV",
+        "PASS": "48831"
      },
      {
         "Name": "🚧 SERVER - US - WS 🚧",
