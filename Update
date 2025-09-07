@@ -1,5 +1,5 @@
 {
-  "Version": "105",
+  "Version": "106",
   "ReleaseNotes": "⚠️Nueva Actualización⚠️",
   "Sms": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/refs/heads/main/SMS",
   "UrlUpdate": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/refs/heads/main/Update",
@@ -55,12 +55,12 @@
         "Name": "🚧 SERVER - US - WS 🚧",
         "TYPE": "Premium",
         "FLAG": "us.png",
-        "ServerIP": "dtxws1.bnetservice.com.mx",
+        "ServerIP": "us.vhserver.xyz",
         "CheckUser": "http://102.129.137.235:115/checkUser",
         "ServerPort": "80",
         "SSLPort": "443",
-        "USER": "bnet-LXINF",
-        "PASS": "60501"
+        "USER": "vpnhack-walter",
+        "PASS": "qwrtywr78"
      }
   ],
   "Networks": [
