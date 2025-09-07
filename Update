@@ -1,5 +1,5 @@
 {
-  "Version": "107",
+  "Version": "108",
   "ReleaseNotes": "⚠️Nueva Actualización⚠️",
   "Sms": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/refs/heads/main/SMS",
   "UrlUpdate": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/refs/heads/main/Update",
@@ -33,12 +33,12 @@
         "Name": "🚧 SERVER - BR - WS 🚧",
         "TYPE": "Premium",
         "FLAG": "br.png",
-        "ServerIP": "us1.wstunnel.xyz",
+        "ServerIP": "",
         "CheckUser": "http://102.129.137.235:115/checkUser",
         "ServerPort": "80",
         "SSLPort": "443",
-        "USER": "sshocean-walter",
-        "PASS": "qwrtywr78"
+        "USER": "",
+        "PASS": ""
      },
      {
         "Name": "🚧 SERVER - MX - WS 🚧",
@@ -48,18 +48,18 @@
         "CheckUser": "http://102.129.137.235:115/checkUser",
         "ServerPort": "80",
         "SSLPort": "443",
-        "USER": "bnet-CRLMV",
-        "PASS": "34930"
+        "USER": "bnet-QTAEC",
+        "PASS": "12195"
      },
      {
         "Name": "🚧 SERVER - US - WS 🚧",
         "TYPE": "Premium",
         "FLAG": "us.png",
-        "ServerIP": "us.greenssh.org",
+        "ServerIP": "us1.wstunnel.xyz",
         "CheckUser": "http://102.129.137.235:115/checkUser",
         "ServerPort": "80",
         "SSLPort": "443",
-        "USER": "greenssh-walter",
+        "USER": "sshocean-walter",
         "PASS": "qwrtywr78"
      }
   ],
