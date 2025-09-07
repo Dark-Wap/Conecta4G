@@ -1,5 +1,5 @@
 {
-  "Version": "106",
+  "Version": "107",
   "ReleaseNotes": "⚠️Nueva Actualización⚠️",
   "Sms": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/refs/heads/main/SMS",
   "UrlUpdate": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/refs/heads/main/Update",
@@ -55,11 +55,11 @@
         "Name": "🚧 SERVER - US - WS 🚧",
         "TYPE": "Premium",
         "FLAG": "us.png",
-        "ServerIP": "us.vhserver.xyz",
+        "ServerIP": "us.greenssh.org",
         "CheckUser": "http://102.129.137.235:115/checkUser",
         "ServerPort": "80",
         "SSLPort": "443",
-        "USER": "vpnhack-walter",
+        "USER": "greenssh-walter",
         "PASS": "qwrtywr78"
      }
   ],
