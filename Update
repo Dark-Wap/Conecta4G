@@ -1,5 +1,5 @@
 {
-  "Version": "104",
+  "Version": "105",
   "ReleaseNotes": "⚠️Nueva Actualización⚠️",
   "Sms": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/refs/heads/main/SMS",
   "UrlUpdate": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/refs/heads/main/Update",
@@ -33,12 +33,12 @@
         "Name": "🚧 SERVER - BR - WS 🚧",
         "TYPE": "Premium",
         "FLAG": "br.png",
-        "ServerIP": "brws1.bnetservice.com.mx",
+        "ServerIP": "us1.wstunnel.xyz",
         "CheckUser": "http://102.129.137.235:115/checkUser",
         "ServerPort": "80",
         "SSLPort": "443",
-        "USER": "",
-        "PASS": ""
+        "USER": "sshocean-walter",
+        "PASS": "qwrtywr78"
      },
      {
         "Name": "🚧 SERVER - MX - WS 🚧",
