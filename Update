@@ -48,8 +48,8 @@
         "CheckUser": "http://102.129.137.235:115/checkUser",
         "ServerPort": "80",
         "SSLPort": "443",
-        "USER": "",
-        "PASS": ""
+        "USER": "bnet-DEGNN",
+        "PASS": "86100"
      },
      {
         "Name": "🚧 SERVER - US - WS 🚧",
