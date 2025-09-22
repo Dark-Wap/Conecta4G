@@ -1,5 +1,5 @@
 {
-  "Version": "111",
+  "Version": "112",
   "ReleaseNotes": "⚠️Nueva Actualización⚠️",
   "Sms": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/refs/heads/main/SMS",
   "UrlUpdate": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/refs/heads/main/Update",
@@ -65,7 +65,7 @@
      {
         "Name": "🚧 SERVER - USA - WS 1 🚧",
         "TYPE": "Premium",
-        "FLAG": "mx.png",
+        "FLAG": "us.png",
         "ServerIP": "dtxws1.bnetservice.com.mx",
         "CheckUser": "http://102.129.137.235:115/checkUser",
         "ServerPort": "80",
@@ -76,7 +76,7 @@
      {
         "Name": "🚧 SERVER - USA - WS 2 🚧",
         "TYPE": "Premium",
-        "FLAG": "mx.png",
+        "FLAG": "us.png",
         "ServerIP": "dtxws1.bnetservice.com.mx",
         "CheckUser": "http://102.129.137.235:115/checkUser",
         "ServerPort": "80",
@@ -87,7 +87,7 @@
      {
         "Name": "🚧 SERVER - USA - WS 3 🚧",
         "TYPE": "Premium",
-        "FLAG": "mx.png",
+        "FLAG": "us.png",
         "ServerIP": "dtxws1.bnetservice.com.mx",
         "CheckUser": "http://102.129.137.235:115/checkUser",
         "ServerPort": "80",
@@ -98,7 +98,7 @@
      {
         "Name": "🚧 SERVER - USA - WS 4 🚧",
         "TYPE": "Premium",
-        "FLAG": "mx.png",
+        "FLAG": "us.png",
         "ServerIP": "dtxws1.bnetservice.com.mx",
         "CheckUser": "http://102.129.137.235:115/checkUser",
         "ServerPort": "80",
