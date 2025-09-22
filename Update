@@ -1,5 +1,5 @@
 {
-  "Version": "110",
+  "Version": "111",
   "ReleaseNotes": "⚠️Nueva Actualización⚠️",
   "Sms": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/refs/heads/main/SMS",
   "UrlUpdate": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/refs/heads/main/Update",
@@ -19,7 +19,7 @@
   "UdpPort": "7400",
   "Servers": [
      {
-        "Name": "⚡ SERVER - USA - WS ⚡",
+        "Name": "⚡ SERVER - USA - WS 📴⚡",
         "TYPE": "Premium",
         "FLAG": "us.png",
         "ServerIP": "vpn.unlimitednetservices.com",
@@ -30,7 +30,7 @@
         "PASS": ""
      },
      {
-        "Name": "🚧 SERVER - BR - WS 🚧",
+        "Name": "🚧 SERVER - BR - WS 📴🚧",
         "TYPE": "Premium",
         "FLAG": "br.png",
         "ServerIP": "",
@@ -41,26 +41,81 @@
         "PASS": ""
      },
      {
-        "Name": "🚧 SERVER - MX - WS 🚧",
+        "Name": "🚧 SERVER - MX - WS 1 🚧",
         "TYPE": "Premium",
         "FLAG": "mx.png",
         "ServerIP": "mxws1.bnetservice.com.mx",
         "CheckUser": "http://102.129.137.235:115/checkUser",
         "ServerPort": "80",
         "SSLPort": "443",
-        "USER": "bnet-DEGNN",
-        "PASS": "86100"
+        "USER": "bnet-VSZOT",
+        "PASS": "82164"
      },
      {
-        "Name": "🚧 SERVER - US - WS 🚧",
+        "Name": "🚧 SERVER - MX - WS 2 🚧",
+        "TYPE": "Premium",
+        "FLAG": "mx.png",
+        "ServerIP": "mxws1.bnetservice.com.mx",
+        "CheckUser": "http://102.129.137.235:115/checkUser",
+        "ServerPort": "80",
+        "SSLPort": "443",
+        "USER": "bnet-BVOJF",
+        "PASS": "83622"
+     },
+     {
+        "Name": "🚧 SERVER - USA - WS 1 🚧",
+        "TYPE": "Premium",
+        "FLAG": "mx.png",
+        "ServerIP": "dtxws1.bnetservice.com.mx",
+        "CheckUser": "http://102.129.137.235:115/checkUser",
+        "ServerPort": "80",
+        "SSLPort": "443",
+        "USER": "bnet-YKZTW",
+        "PASS": "77047"
+     },
+     {
+        "Name": "🚧 SERVER - USA - WS 2 🚧",
+        "TYPE": "Premium",
+        "FLAG": "mx.png",
+        "ServerIP": "dtxws1.bnetservice.com.mx",
+        "CheckUser": "http://102.129.137.235:115/checkUser",
+        "ServerPort": "80",
+        "SSLPort": "443",
+        "USER": "bnet-STDCW",
+        "PASS": "8331"
+     },
+     {
+        "Name": "🚧 SERVER - USA - WS 3 🚧",
+        "TYPE": "Premium",
+        "FLAG": "mx.png",
+        "ServerIP": "dtxws1.bnetservice.com.mx",
+        "CheckUser": "http://102.129.137.235:115/checkUser",
+        "ServerPort": "80",
+        "SSLPort": "443",
+        "USER": "bnet-FDJLH",
+        "PASS": "14401"
+     },
+     {
+        "Name": "🚧 SERVER - USA - WS 4 🚧",
+        "TYPE": "Premium",
+        "FLAG": "mx.png",
+        "ServerIP": "dtxws1.bnetservice.com.mx",
+        "CheckUser": "http://102.129.137.235:115/checkUser",
+        "ServerPort": "80",
+        "SSLPort": "443",
+        "USER": "bnet-OIXKO",
+        "PASS": "34206"
+     },
+     {
+        "Name": "🚧 SERVER - USA G - WS 5 🚧",
         "TYPE": "Premium",
         "FLAG": "us.png",
         "ServerIP": "dtxws1.bnetservice.com.mx",
         "CheckUser": "http://102.129.137.235:115/checkUser",
         "ServerPort": "80",
         "SSLPort": "443",
-        "USER": "",
-        "PASS": ""
+        "USER": "bnet-ARKQJ",
+        "PASS": "76949"
      }
   ],
   "Networks": [
@@ -79,7 +134,7 @@
         "FLAG": "Claro",
         "Payload": "GET /ws/vpn HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf]User-Agent: Mozilla/5.0 (compatible; Googlebot/2.1; +https://www.google.com/bot.html)[crlf][crlf]",
         "SNI": "[app_host]",
-        "TlsIP": "web.whatsapp.com",
+        "TlsIP": "zendesk1.spotify.com",
         "ProxyIP": "",
         "ProxyPort": "443",
         "Info": "Tlsws"
@@ -89,7 +144,7 @@
         "FLAG": "Claro",
         "Payload": "GET /ws/vpn HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf]User-Agent: Mozilla/5.0 (compatible; Googlebot/2.1; +https://www.google.com/bot.html)[crlf][crlf]",
         "SNI": "[app_host]",
-        "TlsIP": "clubclaro.com.gt",
+        "TlsIP": "analytics.datami.com",
         "ProxyIP": "",
         "ProxyPort": "443",
         "Info": "Tlsws"
