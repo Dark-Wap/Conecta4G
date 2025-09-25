@@ -1,5 +1,5 @@
 {
-  "Version": "112",
+  "Version": "113",
   "ReleaseNotes": "⚠️Nueva Actualización⚠️",
   "Sms": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/refs/heads/main/SMS",
   "UrlUpdate": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/refs/heads/main/Update",
@@ -48,8 +48,8 @@
         "CheckUser": "http://102.129.137.235:115/checkUser",
         "ServerPort": "80",
         "SSLPort": "443",
-        "USER": "bnet-VSZOT",
-        "PASS": "82164"
+        "USER": "bnet-JTJBR",
+        "PASS": "80270"
      },
      {
         "Name": "🚧 SERVER - MX - WS 2 🚧",
@@ -59,8 +59,8 @@
         "CheckUser": "http://102.129.137.235:115/checkUser",
         "ServerPort": "80",
         "SSLPort": "443",
-        "USER": "bnet-BVOJF",
-        "PASS": "83622"
+        "USER": "bnet-XFDWH",
+        "PASS": "91037"
      },
      {
         "Name": "🚧 SERVER - USA - WS 1 🚧",
@@ -134,20 +134,20 @@
         "FLAG": "Claro",
         "Payload": "GET /ws/vpn HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf]User-Agent: Mozilla/5.0 (compatible; Googlebot/2.1; +https://www.google.com/bot.html)[crlf][crlf]",
         "SNI": "[app_host]",
-        "TlsIP": "zendesk1.spotify.com",
-        "ProxyIP": "",
+        "TlsIP": "support.deezer.com",
+        "ProxyIP": "support.deezer.com",
         "ProxyPort": "443",
-        "Info": "Tlsws"
+        "Info": "Proxy"
      },
      {
         "Name": "🌎 RESPALDO SLOW - CF 🌎",
         "FLAG": "Claro",
         "Payload": "GET /ws/vpn HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf]User-Agent: Mozilla/5.0 (compatible; Googlebot/2.1; +https://www.google.com/bot.html)[crlf][crlf]",
         "SNI": "[app_host]",
-        "TlsIP": "analytics.datami.com",
-        "ProxyIP": "",
+        "TlsIP": "support.deezer.com",
+        "ProxyIP": "support.deezer.com",
         "ProxyPort": "443",
-        "Info": "Tlsws"
+        "Info": "Ssl"
      }
   ]
 }
