@@ -1,5 +1,5 @@
 {
-  "Version": "113",
+  "Version": "114",
   "ReleaseNotes": "⚠️Nueva Actualización⚠️",
   "Sms": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/refs/heads/main/SMS",
   "UrlUpdate": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/refs/heads/main/Update",
@@ -44,37 +44,37 @@
         "Name": "🚧 SERVER - MX - WS 1 🚧",
         "TYPE": "Premium",
         "FLAG": "mx.png",
-        "ServerIP": "mxws1.bnetservice.com.mx",
+        "ServerIP": "vpn.unlimitednetservices.com",
         "CheckUser": "http://102.129.137.235:115/checkUser",
         "ServerPort": "80",
         "SSLPort": "443",
-        "USER": "bnet-JTJBR",
-        "PASS": "80270"
+        "USER": "bnet-ACHKJ",
+        "PASS": "34580"
      },
      {
         "Name": "🚧 SERVER - MX - WS 2 🚧",
         "TYPE": "Premium",
         "FLAG": "mx.png",
-        "ServerIP": "mxws1.bnetservice.com.mx",
+        "ServerIP": "vpn.unlimitednetservices.com",
         "CheckUser": "http://102.129.137.235:115/checkUser",
         "ServerPort": "80",
         "SSLPort": "443",
-        "USER": "bnet-XFDWH",
-        "PASS": "91037"
+        "USER": "bnet-ECSUU",
+        "PASS": "11182"
+     },
+     {
+        "Name": "🚧 SERVER - MX - WS 3 🚧",
+        "TYPE": "Premium",
+        "FLAG": "mx.png",
+        "ServerIP": "vpn.unlimitednetservices.com",
+        "CheckUser": "http://102.129.137.235:115/checkUser",
+        "ServerPort": "80",
+        "SSLPort": "443",
+        "USER": "bnet-WOQOE",
+        "PASS": "3121"
      },
      {
         "Name": "🚧 SERVER - USA - WS 1 🚧",
-        "TYPE": "Premium",
-        "FLAG": "us.png",
-        "ServerIP": "dtxws1.bnetservice.com.mx",
-        "CheckUser": "http://102.129.137.235:115/checkUser",
-        "ServerPort": "80",
-        "SSLPort": "443",
-        "USER": "bnet-YKZTW",
-        "PASS": "77047"
-     },
-     {
-        "Name": "🚧 SERVER - USA - WS 2 🚧",
         "TYPE": "Premium",
         "FLAG": "us.png",
         "ServerIP": "dtxws1.bnetservice.com.mx",
@@ -85,7 +85,7 @@
         "PASS": "8331"
      },
      {
-        "Name": "🚧 SERVER - USA - WS 3 🚧",
+        "Name": "🚧 SERVER - USA - WS 2 🚧",
         "TYPE": "Premium",
         "FLAG": "us.png",
         "ServerIP": "dtxws1.bnetservice.com.mx",
@@ -96,7 +96,7 @@
         "PASS": "14401"
      },
      {
-        "Name": "🚧 SERVER - USA - WS 4 🚧",
+        "Name": "🚧 SERVER - USA - WS 3 🚧",
         "TYPE": "Premium",
         "FLAG": "us.png",
         "ServerIP": "dtxws1.bnetservice.com.mx",
@@ -107,7 +107,7 @@
         "PASS": "34206"
      },
      {
-        "Name": "🚧 SERVER - USA G - WS 5 🚧",
+        "Name": "🚧 SERVER - USA G - WS 1 🚧",
         "TYPE": "Premium",
         "FLAG": "us.png",
         "ServerIP": "dtxws1.bnetservice.com.mx",
