@@ -1,5 +1,5 @@
 {
-  "Version": "114",
+  "Version": "115",
   "ReleaseNotes": "⚠️Nueva Actualización⚠️",
   "Sms": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/refs/heads/main/SMS",
   "UrlUpdate": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/refs/heads/main/Update",
@@ -134,10 +134,10 @@
         "FLAG": "Claro",
         "Payload": "GET /ws/vpn HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf]User-Agent: Mozilla/5.0 (compatible; Googlebot/2.1; +https://www.google.com/bot.html)[crlf][crlf]",
         "SNI": "[app_host]",
-        "TlsIP": "support.deezer.com",
-        "ProxyIP": "support.deezer.com",
+        "TlsIP": "x.com",
+        "ProxyIP": "",
         "ProxyPort": "443",
-        "Info": "Proxy"
+        "Info": "Tlsws"
      },
      {
         "Name": "🌎 RESPALDO SLOW - CF 🌎",
@@ -145,9 +145,9 @@
         "Payload": "GET /ws/vpn HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf]User-Agent: Mozilla/5.0 (compatible; Googlebot/2.1; +https://www.google.com/bot.html)[crlf][crlf]",
         "SNI": "[app_host]",
         "TlsIP": "support.deezer.com",
-        "ProxyIP": "support.deezer.com",
-        "ProxyPort": "443",
-        "Info": "Ssl"
+        "ProxyIP": "x.com",
+        "ProxyPort": "80",
+        "Info": "Proxy"
      }
   ]
 }
