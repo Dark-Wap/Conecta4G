@@ -1,5 +1,5 @@
 {
-  "Version": "119",
+  "Version": "120",
   "ReleaseNotes": "⚠️Nueva Actualización⚠️",
   "Sms": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/refs/heads/main/SMS",
   "UrlUpdate": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/refs/heads/main/Update",
@@ -120,7 +120,7 @@
   ],
   "Networks": [
      {
-        "Name": "🌎 CENTROAMERICA - WS 🌎",
+        "Name": "🌎 CENTROAMERICA - WS 1 🌎",
         "FLAG": "Claro",
         "Payload": "GET /ws/vpn HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf]User-Agent: Mozilla/5.0 (compatible; Googlebot/2.1; +https://www.google.com/bot.html)[crlf][crlf]",
         "SNI": "[app_host]",
@@ -130,11 +130,11 @@
         "Info": "Tlsws"
      },
      {
-        "Name": "🌎 CENTROAMERICA - WS 🌎",
+        "Name": "🌎 CENTROAMERICA - WS 2 🌎",
         "FLAG": "Claro",
         "Payload": "GET /ws/vpn HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf]User-Agent: Mozilla/5.0 (compatible; Googlebot/2.1; +https://www.google.com/bot.html)[crlf][crlf]",
         "SNI": "[app_host]",
-        "TlsIP": "help.x.com",
+        "TlsIP": "www.americamovil.com",
         "ProxyIP": "",
         "ProxyPort": "443",
         "Info": "Tlsws"
@@ -144,7 +144,7 @@
         "FLAG": "Claro",
         "Payload": "GET /ws/vpn HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf]User-Agent: Mozilla/5.0 (compatible; Googlebot/2.1; +https://www.google.com/bot.html)[crlf][crlf]",
         "SNI": "[app_host]",
-        "TlsIP": "www.deezerjobs.com",
+        "TlsIP": "www.twitter.com",
         "ProxyIP": "",
         "ProxyPort": "443",
         "Info": "Tlsws"
