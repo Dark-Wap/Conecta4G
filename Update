@@ -1,5 +1,5 @@
 {
-  "Version": "122",
+  "Version": "123",
   "ReleaseNotes": "⚠️Nueva Actualización⚠️",
   "Sms": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/refs/heads/main/SMS",
   "UrlUpdate": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/refs/heads/main/Update",
@@ -19,7 +19,7 @@
   "UdpPort": "7400",
   "Servers": [
      {
-        "Name": "⚡ SERVER - USA - WS 📴⚡",
+        "Name": "⚡ SERVER - USA - WS ⚡",
         "TYPE": "Premium",
         "FLAG": "us.png",
         "ServerIP": "us.unlimitednetservices.com",
@@ -48,8 +48,8 @@
         "CheckUser": "http://102.129.137.235:115/checkUser",
         "ServerPort": "80",
         "SSLPort": "443",
-        "USER": "bnet-OAFZW",
-        "PASS": "57126"
+        "USER": "bnet-FOLZJ",
+        "PASS": "28749"
      },
      {
         "Name": "🚧 SERVER - MX - WS 2 🚧",
@@ -59,8 +59,8 @@
         "CheckUser": "http://102.129.137.235:115/checkUser",
         "ServerPort": "80",
         "SSLPort": "443",
-        "USER": "bnet-SVVND",
-        "PASS": "87418"
+        "USER": "bnet-VIECM",
+        "PASS": "50060"
      },
      {
         "Name": "🚧 SERVER - MX - WS 3 🚧",
@@ -70,11 +70,11 @@
         "CheckUser": "http://102.129.137.235:115/checkUser",
         "ServerPort": "80",
         "SSLPort": "443",
-        "USER": "bnet-QEJZA",
-        "PASS": "13657"
+        "USER": "bnet-CZVOP",
+        "PASS": "96651"
      },
      {
-        "Name": "🚧 SERVER - USA - WS 1 🚧",
+        "Name": "🚧 SERVER - USA - WS 1 📴 🚧",
         "TYPE": "Premium",
         "FLAG": "us.png",
         "ServerIP": "dtxws1.bnetservice.com.mx",
@@ -85,7 +85,7 @@
         "PASS": "8331"
      },
      {
-        "Name": "🚧 SERVER - USA - WS 2 🚧",
+        "Name": "🚧 SERVER - USA - WS 2 📴 🚧",
         "TYPE": "Premium",
         "FLAG": "us.png",
         "ServerIP": "dtxws1.bnetservice.com.mx",
@@ -96,7 +96,7 @@
         "PASS": "14401"
      },
      {
-        "Name": "🚧 SERVER - USA - WS 3 🚧",
+        "Name": "🚧 SERVER - USA - WS 3 📴 🚧",
         "TYPE": "Premium",
         "FLAG": "us.png",
         "ServerIP": "dtxws1.bnetservice.com.mx",
@@ -107,7 +107,7 @@
         "PASS": "34206"
      },
      {
-        "Name": "🚧 SERVER - USA G - WS 1 🚧",
+        "Name": "🚧 SERVER - USA G - WS 1 📴 🚧",
         "TYPE": "Premium",
         "FLAG": "us.png",
         "ServerIP": "dtxws1.bnetservice.com.mx",
@@ -144,7 +144,7 @@
         "FLAG": "Claro",
         "Payload": "GET /ws/vpn HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf]Proxy-Connection: Keep-Alive[crlf]User-Agent: Mozilla/5.0 (compatible; Googlebot/2.1; +https://www.google.com/bot.html)[crlf][crlf]",
         "SNI": "[app_host]",
-        "TlsIP": "www.twitter.com",
+        "TlsIP": "www.x.com",
         "ProxyIP": "",
         "ProxyPort": "443",
         "Info": "Tlsws"
