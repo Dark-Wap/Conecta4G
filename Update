@@ -1,5 +1,5 @@
 {
-  "Version": "123",
+  "Version": "124",
   "ReleaseNotes": "⚠️Nueva Actualización⚠️",
   "Sms": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/refs/heads/main/SMS",
   "UrlUpdate": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/refs/heads/main/Update",
@@ -41,81 +41,26 @@
         "PASS": ""
      },
      {
-        "Name": "🚧 SERVER - MX - WS 1 🚧",
+        "Name": "🚧 SERVER - MX - WS 🚧",
         "TYPE": "Premium",
         "FLAG": "mx.png",
         "ServerIP": "mx.unlimitednetservices.com",
         "CheckUser": "http://102.129.137.235:115/checkUser",
         "ServerPort": "80",
         "SSLPort": "443",
-        "USER": "bnet-FOLZJ",
-        "PASS": "28749"
+        "USER": "",
+        "PASS": ""
      },
      {
-        "Name": "🚧 SERVER - MX - WS 2 🚧",
-        "TYPE": "Premium",
-        "FLAG": "mx.png",
-        "ServerIP": "mx.unlimitednetservices.com",
-        "CheckUser": "http://102.129.137.235:115/checkUser",
-        "ServerPort": "80",
-        "SSLPort": "443",
-        "USER": "bnet-VIECM",
-        "PASS": "50060"
-     },
-     {
-        "Name": "🚧 SERVER - MX - WS 3 🚧",
-        "TYPE": "Premium",
-        "FLAG": "mx.png",
-        "ServerIP": "mx.unlimitednetservices.com",
-        "CheckUser": "http://102.129.137.235:115/checkUser",
-        "ServerPort": "80",
-        "SSLPort": "443",
-        "USER": "bnet-CZVOP",
-        "PASS": "96651"
-     },
-     {
-        "Name": "🚧 SERVER - USA - WS 1 📴 🚧",
+        "Name": "🚧 SERVER - USA - WS 📴 🚧",
         "TYPE": "Premium",
         "FLAG": "us.png",
-        "ServerIP": "dtxws1.bnetservice.com.mx",
+        "ServerIP": "",
         "CheckUser": "http://102.129.137.235:115/checkUser",
         "ServerPort": "80",
         "SSLPort": "443",
-        "USER": "bnet-STDCW",
-        "PASS": "8331"
-     },
-     {
-        "Name": "🚧 SERVER - USA - WS 2 📴 🚧",
-        "TYPE": "Premium",
-        "FLAG": "us.png",
-        "ServerIP": "dtxws1.bnetservice.com.mx",
-        "CheckUser": "http://102.129.137.235:115/checkUser",
-        "ServerPort": "80",
-        "SSLPort": "443",
-        "USER": "bnet-FDJLH",
-        "PASS": "14401"
-     },
-     {
-        "Name": "🚧 SERVER - USA - WS 3 📴 🚧",
-        "TYPE": "Premium",
-        "FLAG": "us.png",
-        "ServerIP": "dtxws1.bnetservice.com.mx",
-        "CheckUser": "http://102.129.137.235:115/checkUser",
-        "ServerPort": "80",
-        "SSLPort": "443",
-        "USER": "bnet-OIXKO",
-        "PASS": "34206"
-     },
-     {
-        "Name": "🚧 SERVER - USA G - WS 1 📴 🚧",
-        "TYPE": "Premium",
-        "FLAG": "us.png",
-        "ServerIP": "dtxws1.bnetservice.com.mx",
-        "CheckUser": "http://102.129.137.235:115/checkUser",
-        "ServerPort": "80",
-        "SSLPort": "443",
-        "USER": "bnet-ARKQJ",
-        "PASS": "76949"
+        "USER": "",
+        "PASS": ""
      }
   ],
   "Networks": [
@@ -134,7 +79,7 @@
         "FLAG": "Claro",
         "Payload": "GET /ws/vpn HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf]Proxy-Connection: Keep-Alive[crlf]User-Agent: Mozilla/5.0 (compatible; Googlebot/2.1; +https://www.google.com/bot.html)[crlf][crlf]",
         "SNI": "[app_host]",
-        "TlsIP": "www.americamovil.com",
+        "TlsIP": "www.x.com",
         "ProxyIP": "",
         "ProxyPort": "443",
         "Info": "Tlsws"
@@ -144,7 +89,7 @@
         "FLAG": "Claro",
         "Payload": "GET /ws/vpn HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf]Proxy-Connection: Keep-Alive[crlf]User-Agent: Mozilla/5.0 (compatible; Googlebot/2.1; +https://www.google.com/bot.html)[crlf][crlf]",
         "SNI": "[app_host]",
-        "TlsIP": "www.x.com",
+        "TlsIP": "club.claro.com",
         "ProxyIP": "",
         "ProxyPort": "443",
         "Info": "Tlsws"
