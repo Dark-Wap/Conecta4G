@@ -1,5 +1,5 @@
 {
-  "Version": "124",
+  "Version": "125",
   "ReleaseNotes": "⚠️Nueva Actualización⚠️",
   "Sms": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/refs/heads/main/SMS",
   "UrlUpdate": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/refs/heads/main/Update",
@@ -30,37 +30,37 @@
         "PASS": ""
      },
      {
-        "Name": "🚧 SERVER - BR - WS 📴🚧",
-        "TYPE": "Premium",
-        "FLAG": "br.png",
-        "ServerIP": "",
-        "CheckUser": "http://102.129.137.235:115/checkUser",
-        "ServerPort": "80",
-        "SSLPort": "443",
-        "USER": "",
-        "PASS": ""
-     },
-     {
-        "Name": "🚧 SERVER - MX - WS 🚧",
+        "Name": "🚧 SERVER - MX - WS 1 🚧",
         "TYPE": "Premium",
         "FLAG": "mx.png",
         "ServerIP": "mx.unlimitednetservices.com",
         "CheckUser": "http://102.129.137.235:115/checkUser",
         "ServerPort": "80",
         "SSLPort": "443",
-        "USER": "",
-        "PASS": ""
+        "USER": "bnet-VKXBU",
+        "PASS": "69483"
      },
      {
-        "Name": "🚧 SERVER - USA - WS 📴 🚧",
+        "Name": "🚧 SERVER - MX - WS 2 🚧",
         "TYPE": "Premium",
-        "FLAG": "us.png",
-        "ServerIP": "",
+        "FLAG": "mx.png",
+        "ServerIP": "mx.unlimitednetservices.com",
         "CheckUser": "http://102.129.137.235:115/checkUser",
         "ServerPort": "80",
         "SSLPort": "443",
-        "USER": "",
-        "PASS": ""
+        "USER": "bnet-ODBXT",
+        "PASS": "8942"
+     },
+     {
+        "Name": "🚧 SERVER - MX - WS 3 🚧",
+        "TYPE": "Premium",
+        "FLAG": "mx.png",
+        "ServerIP": "mx.unlimitednetservices.com",
+        "CheckUser": "http://102.129.137.235:115/checkUser",
+        "ServerPort": "80",
+        "SSLPort": "443",
+        "USER": "bnet-PIBRU",
+        "PASS": "8826"
      }
   ],
   "Networks": [
