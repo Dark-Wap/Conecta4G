@@ -1,5 +1,5 @@
 {
-  "Version": "125",
+  "Version": "126",
   "ReleaseNotes": "⚠️Nueva Actualización⚠️",
   "Sms": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/refs/heads/main/SMS",
   "UrlUpdate": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/refs/heads/main/Update",
@@ -37,8 +37,8 @@
         "CheckUser": "http://102.129.137.235:115/checkUser",
         "ServerPort": "80",
         "SSLPort": "443",
-        "USER": "bnet-VKXBU",
-        "PASS": "69483"
+        "USER": "bnet-BQEXX",
+        "PASS": "46485"
      },
      {
         "Name": "🚧 SERVER - MX - WS 2 🚧",
@@ -48,8 +48,8 @@
         "CheckUser": "http://102.129.137.235:115/checkUser",
         "ServerPort": "80",
         "SSLPort": "443",
-        "USER": "bnet-ODBXT",
-        "PASS": "8942"
+        "USER": "bnet-GIQBJ",
+        "PASS": "65882"
      },
      {
         "Name": "🚧 SERVER - MX - WS 3 🚧",
@@ -59,8 +59,8 @@
         "CheckUser": "http://102.129.137.235:115/checkUser",
         "ServerPort": "80",
         "SSLPort": "443",
-        "USER": "bnet-PIBRU",
-        "PASS": "8826"
+        "USER": "",
+        "PASS": ""
      }
   ],
   "Networks": [
