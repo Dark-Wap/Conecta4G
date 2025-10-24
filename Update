@@ -1,5 +1,5 @@
 {
-  "Version": "127",
+  "Version": "128",
   "ReleaseNotes": "⚠️Nueva Actualización⚠️",
   "Sms": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/refs/heads/main/SMS",
   "UrlUpdate": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/refs/heads/main/Update",
@@ -23,6 +23,17 @@
         "TYPE": "Premium",
         "FLAG": "us.png",
         "ServerIP": "us.unlimitednetservices.com",
+        "CheckUser": "http://102.129.137.108:115/checkUser",
+        "ServerPort": "80",
+        "SSLPort": "443",
+        "USER": "",
+        "PASS": ""
+     },
+     {
+        "Name": "⚡ SERVER - USA - CF ⚡",
+        "TYPE": "Premium",
+        "FLAG": "us.png",
+        "ServerIP": "dgbpq42xjbl0e.cloudfront.net",
         "CheckUser": "http://102.129.137.108:115/checkUser",
         "ServerPort": "80",
         "SSLPort": "443",
@@ -89,7 +100,7 @@
         "FLAG": "Claro",
         "Payload": "GET /ws/vpn HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf]Proxy-Connection: Keep-Alive[crlf]User-Agent: Mozilla/5.0 (compatible; Googlebot/2.1; +https://www.google.com/bot.html)[crlf][crlf]",
         "SNI": "[app_host]",
-        "TlsIP": "club.claro.com",
+        "TlsIP": "cookies.giphy.com",
         "ProxyIP": "",
         "ProxyPort": "443",
         "Info": "Tlsws"
