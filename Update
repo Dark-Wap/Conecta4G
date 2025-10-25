@@ -1,5 +1,5 @@
 {
-  "Version": "129",
+  "Version": "130",
   "ReleaseNotes": "⚠️Nueva Actualización⚠️",
   "Sms": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/refs/heads/main/SMS",
   "UrlUpdate": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/refs/heads/main/Update",
@@ -48,8 +48,8 @@
         "CheckUser": "http://102.129.137.235:115/checkUser",
         "ServerPort": "80",
         "SSLPort": "443",
-        "USER": "bnet-ZVTHH",
-        "PASS": "80643"
+        "USER": "bnet-AXKBT",
+        "PASS": "41650"
      },
      {
         "Name": "🚧 SERVER - MX - WS 2 🚧",
@@ -59,8 +59,8 @@
         "CheckUser": "http://102.129.137.235:115/checkUser",
         "ServerPort": "80",
         "SSLPort": "443",
-        "USER": "bnet-GXQGF",
-        "PASS": "66141"
+        "USER": "bnet-PDOED",
+        "PASS": "71291"
      },
      {
         "Name": "🚧 SERVER - MX - CF 🚧",
@@ -70,8 +70,8 @@
         "CheckUser": "http://102.129.137.235:115/checkUser",
         "ServerPort": "80",
         "SSLPort": "443",
-        "USER": "bnet-VFDCQ",
-        "PASS": "37469"
+        "USER": "bnet-OSNAO",
+        "PASS": "80997"
      }
   ],
   "Networks": [
@@ -80,7 +80,7 @@
         "FLAG": "Claro",
         "Payload": "GET /ws/vpn HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf]Proxy-Connection: Keep-Alive[crlf]User-Agent: Mozilla/5.0 (compatible; Googlebot/2.1; +https://www.google.com/bot.html)[crlf][crlf]",
         "SNI": "[app_host]",
-        "TlsIP": "investors.spotify.com",
+        "TlsIP": "support.giphy.com",
         "ProxyIP": "",
         "ProxyPort": "443",
         "Info": "Tlsws"
@@ -100,7 +100,7 @@
         "FLAG": "Claro",
         "Payload": "GET /ws/vpn HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf]Proxy-Connection: Keep-Alive[crlf]User-Agent: Mozilla/5.0 (compatible; Googlebot/2.1; +https://www.google.com/bot.html)[crlf][crlf]",
         "SNI": "[app_host]",
-        "TlsIP": "gt.mipagoclaro.com",
+        "TlsIP": "deezer.zendesk.com",
         "ProxyIP": "",
         "ProxyPort": "443",
         "Info": "Tlsws"
