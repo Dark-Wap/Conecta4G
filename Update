@@ -1,5 +1,5 @@
 {
-  "Version": "133",
+  "Version": "134",
   "ReleaseNotes": "⚠️Nueva Actualización⚠️",
   "Sms": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/refs/heads/main/SMS",
   "UrlUpdate": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/refs/heads/main/Update",
@@ -80,7 +80,7 @@
         "FLAG": "Claro",
         "Payload": "GET /ws/vpn HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf]Proxy-Connection: Keep-Alive[crlf]User-Agent: Mozilla/5.0 (compatible; Googlebot/2.1; +https://www.google.com/bot.html)[crlf][crlf]",
         "SNI": "[app_host]",
-        "TlsIP": "investors.spotify.com",
+        "TlsIP": "www.x.com",
         "ProxyIP": "",
         "ProxyPort": "443",
         "Info": "Tlsws"
@@ -100,7 +100,7 @@
         "FLAG": "Claro",
         "Payload": "GET /ws/vpn HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf]Proxy-Connection: Keep-Alive[crlf]User-Agent: Mozilla/5.0 (compatible; Googlebot/2.1; +https://www.google.com/bot.html)[crlf][crlf]",
         "SNI": "[app_host]",
-        "TlsIP": "clubclaro.cr",
+        "TlsIP": "clubclaro.com.ni",
         "ProxyIP": "",
         "ProxyPort": "443",
         "Info": "Tlsws"
