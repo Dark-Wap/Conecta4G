@@ -1,5 +1,5 @@
 {
-  "Version": "134",
+  "Version": "135",
   "ReleaseNotes": "⚠️Nueva Actualización⚠️",
   "Sms": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/refs/heads/main/SMS",
   "UrlUpdate": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/refs/heads/main/Update",
@@ -101,6 +101,36 @@
         "Payload": "GET /ws/vpn HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf]Proxy-Connection: Keep-Alive[crlf]User-Agent: Mozilla/5.0 (compatible; Googlebot/2.1; +https://www.google.com/bot.html)[crlf][crlf]",
         "SNI": "[app_host]",
         "TlsIP": "clubclaro.com.ni",
+        "ProxyIP": "",
+        "ProxyPort": "443",
+        "Info": "Tlsws"
+     },
+     {
+        "Name": "🌎 RESPALDO - WS 🌎",
+        "FLAG": "Claro",
+        "Payload": "GET /ws/vpn HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf]Proxy-Connection: Keep-Alive[crlf]User-Agent: Mozilla/5.0 (compatible; Googlebot/2.1; +https://www.google.com/bot.html)[crlf][crlf]",
+        "SNI": "[app_host]",
+        "TlsIP": "paises.paquetesmiclaro.com",
+        "ProxyIP": "",
+        "ProxyPort": "443",
+        "Info": "Tlsws"
+     },
+     {
+        "Name": "🌎 RESPALDO - CF 🌎",
+        "FLAG": "Claro",
+        "Payload": "GET /ws/vpn HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf]Proxy-Connection: Keep-Alive[crlf]User-Agent: Mozilla/5.0 (compatible; Googlebot/2.1; +https://www.google.com/bot.html)[crlf][crlf]",
+        "SNI": "[app_host]",
+        "TlsIP": "ni.mipagoclaro.com",
+        "ProxyIP": "",
+        "ProxyPort": "443",
+        "Info": "Tlsws"
+     },
+     {
+        "Name": "🌎 RESPALDO - CF 🌎",
+        "FLAG": "Claro",
+        "Payload": "GET /ws/vpn HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf]Proxy-Connection: Keep-Alive[crlf]User-Agent: Mozilla/5.0 (compatible; Googlebot/2.1; +https://www.google.com/bot.html)[crlf][crlf]",
+        "SNI": "[app_host]",
+        "TlsIP": "ni.claropayment.com",
         "ProxyIP": "",
         "ProxyPort": "443",
         "Info": "Tlsws"
