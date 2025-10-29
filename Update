@@ -1,5 +1,5 @@
 {
-  "Version": "135",
+  "Version": "136",
   "ReleaseNotes": "⚠️Nueva Actualización⚠️",
   "Sms": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/refs/heads/main/SMS",
   "UrlUpdate": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/refs/heads/main/Update",
@@ -41,29 +41,29 @@
         "PASS": ""
      },
      {
-        "Name": "🚧 SERVER - MX - WS 1 🚧",
+        "Name": "🚧 SERVER - MX - WS 🚧",
         "TYPE": "Premium",
         "FLAG": "mx.png",
         "ServerIP": "mx.unlimitednetservices.com",
         "CheckUser": "http://102.129.137.235:115/checkUser",
         "ServerPort": "80",
         "SSLPort": "443",
-        "USER": "bnet-AXKBT",
-        "PASS": "41650"
+        "USER": "bnet-PMBCZ",
+        "PASS": "41617"
      },
      {
-        "Name": "🚧 SERVER - MX - WS 2 🚧",
+        "Name": "🚧 SERVER - MX - CF 1 🚧",
         "TYPE": "Premium",
         "FLAG": "mx.png",
-        "ServerIP": "mx.unlimitednetservices.com",
+        "ServerIP": "d26cxpn9qu2e0r.cloudfront.net",
         "CheckUser": "http://102.129.137.235:115/checkUser",
         "ServerPort": "80",
         "SSLPort": "443",
-        "USER": "bnet-PDOED",
-        "PASS": "71291"
+        "USER": "bnet-GVAEZ",
+        "PASS": "90109"
      },
      {
-        "Name": "🚧 SERVER - MX - CF 🚧",
+        "Name": "🚧 SERVER - MX - CF 2 🚧",
         "TYPE": "Premium",
         "FLAG": "mx.png",
         "ServerIP": "d26cxpn9qu2e0r.cloudfront.net",
