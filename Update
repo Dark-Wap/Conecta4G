@@ -1,5 +1,5 @@
 {
-  "Version": "139",
+  "Version": "140",
   "ReleaseNotes": "⚠️Nueva Actualización⚠️",
   "Sms": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/refs/heads/main/SMS",
   "UrlUpdate": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/refs/heads/main/Update",
@@ -48,8 +48,8 @@
         "CheckUser": "http://102.129.137.235:115/checkUser",
         "ServerPort": "80",
         "SSLPort": "443",
-        "USER": "bnet-ZKLCL",
-        "PASS": "15786"
+        "USER": "bnet-PFIGG",
+        "PASS": "52529"
      },
      {
         "Name": "🚧 SERVER - MX - CF 1 🚧",
@@ -59,8 +59,8 @@
         "CheckUser": "http://102.129.137.235:115/checkUser",
         "ServerPort": "80",
         "SSLPort": "443",
-        "USER": "bnet-ENOTT",
-        "PASS": "38597"
+        "USER": "bnet-UGNTH",
+        "PASS": "80674"
      },
      {
         "Name": "🚧 SERVER - MX - CF 2 🚧",
@@ -70,8 +70,8 @@
         "CheckUser": "http://102.129.137.235:115/checkUser",
         "ServerPort": "80",
         "SSLPort": "443",
-        "USER": "",
-        "PASS": ""
+        "USER": "bnet-WXVVH",
+        "PASS": "16286"
      }
   ],
   "Networks": [
@@ -80,7 +80,7 @@
         "FLAG": "Claro",
         "Payload": "GET /ws/vpn HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf]Proxy-Connection: Keep-Alive[crlf]User-Agent: Mozilla/5.0 (compatible; Googlebot/2.1; +https://www.google.com/bot.html)[crlf][crlf]",
         "SNI": "[app_host]",
-        "TlsIP": "www.x.com",
+        "TlsIP": "investors.spotify.com",
         "ProxyIP": "",
         "ProxyPort": "443",
         "Info": "Tlsws"
