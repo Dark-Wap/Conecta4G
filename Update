@@ -1,5 +1,5 @@
 {
-  "Version": "141",
+  "Version": "142",
   "ReleaseNotes": "⚠️Nueva Actualización⚠️",
   "Sms": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/refs/heads/main/SMS",
   "UrlUpdate": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/refs/heads/main/Update",
@@ -48,8 +48,8 @@
         "CheckUser": "http://102.129.137.235:115/checkUser",
         "ServerPort": "80",
         "SSLPort": "443",
-        "USER": "bnet-IEBZN",
-        "PASS": "66674"
+        "USER": "bnet-XQTZW",
+        "PASS": "6624"
      },
      {
         "Name": "🚧 SERVER - MX - CF 1 🚧",
@@ -59,8 +59,8 @@
         "CheckUser": "http://102.129.137.235:115/checkUser",
         "ServerPort": "80",
         "SSLPort": "443",
-        "USER": "bnet-XNFUI",
-        "PASS": "10866"
+        "USER": "bnet-ERWDP",
+        "PASS": "21053"
      },
      {
         "Name": "🚧 SERVER - MX - CF 2 🚧",
@@ -70,8 +70,8 @@
         "CheckUser": "http://102.129.137.235:115/checkUser",
         "ServerPort": "80",
         "SSLPort": "443",
-        "USER": "bnet-WBDGX",
-        "PASS": "12410"
+        "USER": "bnet-FLZER",
+        "PASS": "45256"
      }
   ],
   "Networks": [
@@ -104,36 +104,4 @@
         "ProxyIP": "",
         "ProxyPort": "443",
         "Info": "Tlsws"
-     },
-     {
-        "Name": "🌎 RESPALDO - WS 🌎",
-        "FLAG": "Claro",
-        "Payload": "GET /ws/vpn HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf]Proxy-Connection: Keep-Alive[crlf]User-Agent: Mozilla/5.0 (compatible; Googlebot/2.1; +https://www.google.com/bot.html)[crlf][crlf]",
-        "SNI": "[app_host]",
-        "TlsIP": "support.giphy.com",
-        "ProxyIP": "",
-        "ProxyPort": "443",
-        "Info": "Tlsws"
-     },
-     {
-        "Name": "🌎 RESPALDO - CF 🌎",
-        "FLAG": "Claro",
-        "Payload": "GET /ws/vpn HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf]Proxy-Connection: Keep-Alive[crlf]User-Agent: Mozilla/5.0 (compatible; Googlebot/2.1; +https://www.google.com/bot.html)[crlf][crlf]",
-        "SNI": "[app_host]",
-        "TlsIP": "ni.mipagoclaro.com",
-        "ProxyIP": "",
-        "ProxyPort": "443",
-        "Info": "Tlsws"
-     },
-     {
-        "Name": "🌎 RESPALDO - CF 🌎",
-        "FLAG": "Claro",
-        "Payload": "GET /ws/vpn HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf]Proxy-Connection: Keep-Alive[crlf]User-Agent: Mozilla/5.0 (compatible; Googlebot/2.1; +https://www.google.com/bot.html)[crlf][crlf]",
-        "SNI": "[app_host]",
-        "TlsIP": "ni.claropayment.com",
-        "ProxyIP": "",
-        "ProxyPort": "443",
-        "Info": "Tlsws"
      }
-  ]
-}
