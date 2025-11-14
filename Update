@@ -1,5 +1,5 @@
 {
-  "Version": "143",
+  "Version": "144",
   "ReleaseNotes": "⚠️Nueva Actualización⚠️",
   "Sms": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/refs/heads/main/SMS",
   "UrlUpdate": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/refs/heads/main/Update",
@@ -105,3 +105,5 @@
         "ProxyPort": "443",
         "Info": "Tlsws"
      }
+  ]
+}
