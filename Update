@@ -48,30 +48,19 @@
         "CheckUser": "http://102.129.137.235:115/checkUser",
         "ServerPort": "80",
         "SSLPort": "443",
-        "USER": "bnet-GOWLT",
-        "PASS": "44765"
+        "USER": "",
+        "PASS": ""
      },
      {
-        "Name": "🚧 SERVER - MX - CF 1 🚧",
+        "Name": "🚧 SERVER - MX - CF 🚧",
         "TYPE": "Premium",
         "FLAG": "mx.png",
         "ServerIP": "d26cxpn9qu2e0r.cloudfront.net",
         "CheckUser": "http://102.129.137.235:115/checkUser",
         "ServerPort": "80",
         "SSLPort": "443",
-        "USER": "bnet-DAXGC",
-        "PASS": "6655"
-     },
-     {
-        "Name": "🚧 SERVER - MX - CF 2 🚧",
-        "TYPE": "Premium",
-        "FLAG": "mx.png",
-        "ServerIP": "d26cxpn9qu2e0r.cloudfront.net",
-        "CheckUser": "http://102.129.137.235:115/checkUser",
-        "ServerPort": "80",
-        "SSLPort": "443",
-        "USER": "bnet-FZRLY",
-        "PASS": "25119"
+        "USER": "",
+        "PASS": ""
      }
   ],
   "Networks": [
