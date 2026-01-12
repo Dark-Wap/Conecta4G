@@ -1,5 +1,5 @@
 {
-  "Version": "148",
+  "Version": "149",
   "ReleaseNotes": "⚠️Nueva Actualización⚠️",
   "Sms": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/refs/heads/main/SMS",
   "UrlUpdate": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/refs/heads/main/Update",
@@ -17,7 +17,7 @@
         "Porta": "7400"
      }
   ],
-  "UdpPort": "7400",
+  "UdpPort": "7300;7400",
   "Servers": [
      {
         "Name": "⚡ SERVER - USA - WS 1 ⚡",
