@@ -27,7 +27,7 @@
         "FLAG": "us.png",
         "ServerIP": "us.unlimitednetservices.com",
         "CheckUser": "http://102.129.137.108:115/checkUser",
-        "ServerPort": "80",
+        "ServerPort": "8880",
         "SSLPort": "443",
         "USER": "",
         "PASS": ""
@@ -38,7 +38,7 @@
         "FLAG": "us.png",
         "ServerIP": "dtxws1.bnetservice.com.mx",
         "CheckUser": "http://102.129.137.108:115/checkUser",
-        "ServerPort": "80",
+        "ServerPort": "8880",
         "SSLPort": "443",
         "USER": "",
         "PASS": ""
@@ -49,7 +49,7 @@
         "FLAG": "mx.png",
         "ServerIP": "mxws1.bnetservice.com.mx",
         "CheckUser": "http://102.129.137.235:115/checkUser",
-        "ServerPort": "80",
+        "ServerPort": "8880",
         "SSLPort": "443",
         "USER": "",
         "PASS": ""
@@ -60,7 +60,7 @@
         "FLAG": "mx.png",
         "ServerIP": "d26cxpn9qu2e0r.cloudfront.net",
         "CheckUser": "http://102.129.137.235:115/checkUser",
-        "ServerPort": "80",
+        "ServerPort": "8880",
         "SSLPort": "443",
         "USER": "",
         "PASS": ""
