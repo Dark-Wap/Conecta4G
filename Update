@@ -1,5 +1,5 @@
 {
-  "Version": "152",
+  "Version": "153",
   "ReleaseNotes": "⚠️Nueva Actualización⚠️",
   "Sms": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/refs/heads/main/SMS",
   "UrlUpdate": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/refs/heads/main/Update",
@@ -27,7 +27,7 @@
         "FLAG": "us.png",
         "ServerIP": "us.unlimitednetservices.com",
         "CheckUser": "http://102.129.137.108:115/checkUser",
-        "ServerPort": "8880",
+        "ServerPort": "80",
         "SSLPort": "443",
         "USER": "",
         "PASS": ""
@@ -38,7 +38,7 @@
         "FLAG": "us.png",
         "ServerIP": "dtxws1.bnetservice.com.mx",
         "CheckUser": "http://102.129.137.108:115/checkUser",
-        "ServerPort": "8880",
+        "ServerPort": "80",
         "SSLPort": "443",
         "USER": "",
         "PASS": ""
@@ -49,7 +49,7 @@
         "FLAG": "mx.png",
         "ServerIP": "mxws1.bnetservice.com.mx",
         "CheckUser": "http://102.129.137.235:115/checkUser",
-        "ServerPort": "8880",
+        "ServerPort": "80",
         "SSLPort": "443",
         "USER": "",
         "PASS": ""
@@ -60,7 +60,7 @@
         "FLAG": "mx.png",
         "ServerIP": "d26cxpn9qu2e0r.cloudfront.net",
         "CheckUser": "http://102.129.137.235:115/checkUser",
-        "ServerPort": "8880",
+        "ServerPort": "80",
         "SSLPort": "443",
         "USER": "",
         "PASS": ""
@@ -92,7 +92,7 @@
         "FLAG": "Claro",
         "Payload": "GET /ws/vpn HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf]Proxy-Connection: Keep-Alive[crlf]User-Agent: Mozilla/5.0 (compatible; Googlebot/2.1; +https://www.google.com/bot.html)[crlf][crlf]",
         "SNI": "[app_host]",
-        "TlsIP": "support.deezer.com",
+        "TlsIP": "handles.x.com",
         "ProxyIP": "",
         "ProxyPort": "443",
         "Info": "Tlsws"
