@@ -1,5 +1,5 @@
 {
-  "Version": "156",
+  "Version": "157",
   "ReleaseNotes": "⚠️Nueva Actualización⚠️",
   "Sms": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/refs/heads/main/SMS",
   "UrlUpdate": "https://raw.githubusercontent.com/Dark-Wap/Conecta4G/refs/heads/main/Update",
@@ -22,18 +22,7 @@
   "UdpPort": "7300;7400",
   "Servers": [
      {
-        "Name": "⚡ SERVER - USA - WS 1 ⚡",
-        "TYPE": "Premium",
-        "FLAG": "us.png",
-        "ServerIP": "us.unlimitednetservices.com",
-        "CheckUser": "http://102.129.137.108:115/checkUser",
-        "ServerPort": "80",
-        "SSLPort": "443",
-        "USER": "",
-        "PASS": ""
-     },
-     {
-        "Name": "⚡ SERVER - USA - WS 2 ⚡",
+        "Name": "⚡ SERVER - USA - WS ⚡",
         "TYPE": "Premium",
         "FLAG": "us.png",
         "ServerIP": "dtxws1.bnetservice.com.mx",
@@ -44,7 +33,18 @@
         "PASS": ""
      },
      {
-        "Name": "🚧 SERVER - MX - WS 🚧",
+        "Name": "⚡ SERVER - BR - WS ⚡",
+        "TYPE": "Premium",
+        "FLAG": "br.png",
+        "ServerIP": "brws1.bnetservice.com.mx",
+        "CheckUser": "http://102.129.137.108:115/checkUser",
+        "ServerPort": "80",
+        "SSLPort": "443",
+        "USER": "",
+        "PASS": ""
+     },
+     {
+        "Name": "⚡ SERVER - MX - WS ⚡",
         "TYPE": "Premium",
         "FLAG": "mx.png",
         "ServerIP": "mxws1.bnetservice.com.mx",
@@ -55,7 +55,7 @@
         "PASS": ""
      },
      {
-        "Name": "🚧 SERVER - MX - CF 🚧",
+        "Name": "📴🚧 SERVER - MX - CF 🚧📴",
         "TYPE": "Premium",
         "FLAG": "mx.png",
         "ServerIP": "d26cxpn9qu2e0r.cloudfront.net",
@@ -78,7 +78,7 @@
         "Info": "Tlsws"
      },
      {
-        "Name": "🌎 CENTROAMERICA - CF 🌎",
+        "Name": "📴🌎 CENTROAMERICA - CF 🌎📴",
         "FLAG": "Claro",
         "Payload": "GET /ws/vpn HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf]Proxy-Connection: Keep-Alive[crlf]User-Agent: Mozilla/5.0 (compatible; Googlebot/2.1; +https://www.google.com/bot.html)[crlf][crlf]",
         "SNI": "[app_host]",
